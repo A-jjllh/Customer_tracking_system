@@ -1,7 +1,7 @@
 # 📊 BIDIRECTIONAL VISITOR COUNTER USING ARDUINO
 
 <p align="center">
-  <img src="./assets/1.jpg" alt="Visitor Counter Project" width="500">
+  <img src="./images/bi_circuit.png" alt="Visitor Counter Project" width="500">
 </p>
 
 ---
@@ -47,14 +47,6 @@ This project can be used in various real-world applications, including:
 ---
 
 # Circuit Connections
-
-## Connection Diagram
-
-<p align="center">
-  <img src="./assets/2.png" alt="Circuit Diagram" width="500">
-</p>
-
----
 
 ## Arduino UNO ↔ Breadboard
 
